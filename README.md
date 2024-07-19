@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edric Bijoy Paul</h1>
-<h3 align="center">A passionate machine learning and deep learning engineer</h3>
+<h3 align="center">A person who is just trying to code and math in machine learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edricccx&label=Profile%20views&color=0e75b6&style=flat" alt="edricccx" /> </p>
 
